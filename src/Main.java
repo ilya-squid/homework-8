@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         // task 1
         System.out.println("Задание 1");
-
         int[] array1 = new int[3];
 
         array1[0] = 1;
